@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📄 Pablaw's pages 👋
+- 🌱 I’m currently learning CSS, JS
+- 👯 I’m looking to collaborate on JDNC
+- 🤔 I’m looking for help with React skill
+- 📫 How to reach me: chulhwa7@gmail.com
 
 <!--
 **Pablaw/Pablaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
